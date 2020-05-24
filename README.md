@@ -10,7 +10,19 @@
 他有許多影片在嘴砲他人跟過激反應，但個人認為他的影片相當好笑，推薦大家去看看
 
 <button id="fade-in">淡入</button> 
-<button id="fade-out">淡出</button>
+<button id="fade-out">淡出</button><p>
+<img src="https://i.imgur.com/cmP2cCV.jpg">
+<img src="https://i.imgur.com/wr2kvaJ.jpg">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>
+   $('#fade-in').click(function(){
+            $('img').fadeIn('slow');
+        });
+   $('#fade-out').click(function(){
+            $('img').fadeOut(400);
+        });
+</script>
+<p>
 
 ### 我看youtube最愛看的團體:反正我很閒
 
@@ -35,4 +47,4 @@
 
 ### LOL
 
-<p>
+
