@@ -9,6 +9,9 @@
 <br>
 他有許多影片在嘴砲他人跟過激反應，但個人認為他的影片相當好笑，推薦大家去看看
 
+<button id="fade-in">淡入</button> 
+<button id="fade-out">淡出</button><p>
+
 ### 我看youtube最愛看的團體:反正我很閒
 
 <img src="https://i.imgur.com/l0J8D4L.png">
