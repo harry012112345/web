@@ -2,6 +2,9 @@
 
 我叫彭顯皓，目前正在學習怎麼當一個能有工作的資工人，平常的休閒就是玩遊戲跟看youtube。
 
+<button id="fade-in">淡入</button> 
+<button id="fade-out">淡出</button><p>
+	
 ### 我看youtube最愛看的人:國動
 <img src="https://i.imgur.com/D3zmG9m.jpg">
 
@@ -9,11 +12,10 @@
 <br>
 他有許多影片在嘴砲他人跟過激反應，但個人認為他的影片相當好笑，推薦大家去看看
 
-<button id="fade-in">淡入</button> 
-<button id="fade-out">淡出</button><p>
-<img src="https://i.imgur.com/cmP2cCV.jpg">
-<img src="https://i.imgur.com/wr2kvaJ.jpg">
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+
 <script>
    $('#fade-in').click(function(){
             $('img').fadeIn('slow');
@@ -23,6 +25,8 @@
         });
 </script>
 <p>
+
+
 
 ### 我看youtube最愛看的團體:反正我很閒
 
