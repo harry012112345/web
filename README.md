@@ -5,11 +5,9 @@
 <script type="text/javascript">
 $(document).ready(function(){
   $("p").fadeIn();
-    $("p").fadeIn("slow");
-    $("p").fadeIn(3000);
   $("button").click(function(){
-    $("img").fadeToggle("slow");
     $("img").fadeToggle(3000);
+
   });
 });
 </script>
