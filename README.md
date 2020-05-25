@@ -15,10 +15,10 @@ $(document).ready(function(){
 </head>
 
 <body>
-<p>演示带有不同参数的 fadeIn() 方法。</p>
+<p> </p>
 <button>淡入淡出</button> 
 <br><br>
-<div id="div1""><img src="https://i.imgur.com/RE5xc6A.jpg"></div>
+<div id="div1" style="image:https://i.imgur.com/D3zmG9m.jpg;"></div>
 <br>
 <div id="div2" style="width:80px;height:80px;display:none;background-color:green;"></div>
 <br>
