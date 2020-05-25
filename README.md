@@ -23,11 +23,8 @@ $(document).ready(function(){
 他有許多影片在嘴砲他人跟過激反應，但個人認為他的影片相當好笑，推薦大家去看看
 <br>
 ### 我看youtube最愛看的團體:反正我很閒
-<br>
 <img src="https://i.imgur.com/RE5xc6A.jpg">
-<br>	
 <img src="https://i.imgur.com/S5F3ADb.jpg">
-<br>
 <img src="https://i.imgur.com/kFoFCNP.jpg">
 <br>	
 反正我很閒是一個YouTube頻道，團隊由鍾佳播、陳奕凱及趙福臨組成。內容以喜劇的方式討論各種主題，含括了社會政治、哲學思考、男女情感、都市傳說等，其中以諷刺資本主義和反抗體制的左膠為最主要特色。鏡頭則是以嘲弄YouTuber慣用的跳接剪輯，刻意粗糙的影像，以及縮放鏡頭的手法呈現。劇中創造了許多如「卑鄙源之助」、「惡魔貓男」、「台北暴徒」等虛構人物和洗腦台詞在網路上蔚為流行，可謂迷因製造機。
