@@ -1,6 +1,7 @@
 <html>
 <head>
 <script src="/jquery/jquery-1.11.1.min.js"></script>
+
 <script type="text/javascript">
 $(document).ready(function(){
   $("p").fadeIn();
@@ -21,6 +22,15 @@ $(document).ready(function(){
 <button>淡入淡出</button> 
 <br>
 
+## 自我介紹
+
+我叫彭顯皓，目前正在學習怎麼當一個能有工作的資工人，平常的休閒就是玩遊戲跟看youtube。
+
+<img src="https://i.imgur.com/D3zmG9m.jpg">
+
+
+
+
 </body>
 </html>
 
@@ -28,17 +38,11 @@ $(document).ready(function(){
 
 
 
-## 自我介紹
-
-我叫彭顯皓，目前正在學習怎麼當一個能有工作的資工人，平常的休閒就是玩遊戲跟看youtube。
-
-
 
 
 	
 ### 我看youtube最愛看的人:國動
 
-<img src="https://i.imgur.com/D3zmG9m.jpg">
 
 我的偶像，臺灣桃園人，是網路遊戲實況主，為蹦蛙數位娛樂旗下藝人，綽號「國動」，源自於他喜歡看的政論節目《大話新聞》中的常態來賓吳國棟。除此之外，也有「瘋狗動」、「海鮮稽查員」、「改革家」、「鼻地大師」等稱呼。他是另一位實況主「亞洲統神」張嘉航的哥哥。
 <br>
