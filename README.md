@@ -3,10 +3,10 @@
 <script type="text/javascript">
 $(document).ready(function(){
   $("img").fadeOut(0);
-	 });
   $("#fade-in-out").click(function(){
     $("img").fadeToggle(3000);
 	  });
+	});
 
 </script>
 <button id="fade-in-out">召喚圖片，消失圖片</button> 
