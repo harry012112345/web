@@ -2,7 +2,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
-  $("p").fadeIn();
+  $(img src="https://i.imgur.com/RE5xc6A.jpg").fadeIn();
   $("#fade-in-out").click(function(){
     $("img").fadeToggle(3000);
 
@@ -12,9 +12,6 @@ $(document).ready(function(){
 
 
 <button id="fade-in-out">淡入淡出</button> 
-<p><img src="https://i.imgur.com/RE5xc6A.jpg"> </p>
-	
-<p><img src="https://i.imgur.com/S5F3ADb.jpg"> </p>
 
 <br>
 
