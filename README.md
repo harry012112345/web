@@ -1,12 +1,12 @@
 <script src="/jquery/jquery-1.11.1.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript">
-$(document).ready(function(){
+
   $("img").fade();
   $("#fade-in-out").click(function(){
     $("img").fadeToggle(3000);
 	  });
-});
+
 </script>
 <button id="fade-in-out">召喚圖片，消失圖片</button> 
 <br>
