@@ -11,10 +11,12 @@
 
 <script>
    $('button').click(function(){
-    $("img").fadeToggle("slow",3000);
+    $("img").fadeToggle("slow");
+	$("img").fadeToggle(3000);
         });
    $('button').click(function(){
-     $("img").fadeToggle("slow",3000);
+       $("img").fadeToggle("slow");
+	$("img").fadeToggle(3000);
         });
 </script>
 <p>
