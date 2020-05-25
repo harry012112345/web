@@ -2,7 +2,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
-  $("img").fadeIn();
+  $("img").fade();
   $("#fade-in-out").click(function(){
     $("img").fadeToggle(3000);
 	  });
