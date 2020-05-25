@@ -3,9 +3,9 @@
 <script src="/jquery/jquery-1.11.1.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
-  $("#div1").fadeIn();
-    $("#div2").fadeIn("slow");
-    $("#div3").fadeIn(3000);
+  $("p").fadeIn();
+    $("p").fadeIn("slow");
+    $("p").fadeIn(3000);
   $("button").click(function(){
     $("img").fadeToggle("slow");
     $("img").fadeToggle(3000);
@@ -16,13 +16,11 @@ $(document).ready(function(){
 
 <body>
 <p><img src="https://i.imgur.com/RE5xc6A.jpg"> </p>
+	
+<p><img src="https://i.imgur.com/S5F3ADb.jpg"> </p>
 <button>淡入淡出</button> 
-<br><br>
-<div id="div1"></div>
 <br>
-<div id="div2" style="width:80px;height:80px;display:none;background-color:green;"></div>
-<br>
-<div id="div3" style="width:80px;height:80px;display:none;background-color:blue;"></div>
+
 </body>
 </html>
 
