@@ -2,11 +2,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
-  $(img src="https://i.imgur.com/RE5xc6A.jpg").fadeIn();
+  $("p").fadeIn();
+	  });
   $("#fade-in-out").click(function(){
     $("img").fadeToggle(3000);
 
-  });
 });
 </script>
 
@@ -16,6 +16,9 @@ $(document).ready(function(){
 <br>
 
 ## 自我介紹
+
+
+<p><img src="https://i.imgur.com/D3zmG9m.jpg"> </p> 
 
 我叫彭顯皓，目前正在學習怎麼當一個能有工作的資工人，平常的休閒就是玩遊戲跟看youtube。
 
