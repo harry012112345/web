@@ -2,8 +2,6 @@
 
 我叫彭顯皓，目前正在學習怎麼當一個能有工作的資工人，平常的休閒就是玩遊戲跟看youtube。
 
-<button id="fade-in">淡入</button> 
-<button id="fade-out">淡出</button><p>
 	
 ### 我看youtube最愛看的人:國動
 <img src="https://i.imgur.com/D3zmG9m.jpg">
@@ -11,6 +9,9 @@
 我的偶像，臺灣桃園人，是網路遊戲實況主，為蹦蛙數位娛樂旗下藝人，綽號「國動」，源自於他喜歡看的政論節目《大話新聞》中的常態來賓吳國棟。除此之外，也有「瘋狗動」、「海鮮稽查員」、「改革家」、「鼻地大師」等稱呼。他是另一位實況主「亞洲統神」張嘉航的哥哥。
 <br>
 他有許多影片在嘴砲他人跟過激反應，但個人認為他的影片相當好笑，推薦大家去看看
+
+<button id="fade-in">淡入</button> 
+<button id="fade-out">淡出</button><p>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
