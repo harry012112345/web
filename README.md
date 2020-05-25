@@ -1,11 +1,11 @@
-<html>
+
 <head>
 <script src="/jquery/jquery-1.11.1.min.js"></script>
 
 <script type="text/javascript">
 $(document).ready(function(){
   $("p").fadeIn();
-  $("button").click(function(){
+  $("#fade-in-out").click(function(){
     $("img").fadeToggle(3000);
 
   });
@@ -13,11 +13,11 @@ $(document).ready(function(){
 </script>
 </head>
 
-<body>
+<button id="fade-in-out">淡入淡出</button> 
 <p><img src="https://i.imgur.com/RE5xc6A.jpg"> </p>
 	
 <p><img src="https://i.imgur.com/S5F3ADb.jpg"> </p>
-<button>淡入淡出</button> 
+
 <br>
 
 ## 自我介紹
@@ -26,19 +26,6 @@ $(document).ready(function(){
 
 <img src="https://i.imgur.com/D3zmG9m.jpg">
 
-
-
-
-</body>
-</html>
-
-
-
-
-
-
-
-	
 ### 我看youtube最愛看的人:國動
 
 
