@@ -1,5 +1,3 @@
-
-<head>
 <script src="/jquery/jquery-1.11.1.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript">
@@ -11,7 +9,7 @@ $(document).ready(function(){
   });
 });
 </script>
-</head>
+
 
 <button id="fade-in-out">淡入淡出</button> 
 <p><img src="https://i.imgur.com/RE5xc6A.jpg"> </p>
