@@ -1,8 +1,9 @@
 <script src="/jquery/jquery-1.11.1.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript">
-
-  $("img").fade();
+$(document).ready(function(){
+  $("img").fadeOut();
+	 });
   $("#fade-in-out").click(function(){
     $("img").fadeToggle(3000);
 	  });
