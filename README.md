@@ -19,10 +19,10 @@
 
 <script>
    $('#fade-in').click(function(){
-            $('img src="https://i.imgur.com/D3zmG9m.jpg"').fadeIn('slow');
+            $('src="https://i.imgur.com/D3zmG9m.jpg"').fadeIn('slow');
         });
    $('#fade-out').click(function(){
-            $('img src="https://i.imgur.com/D3zmG9m.jpg"').fadeOut(400);
+            $('src="https://i.imgur.com/D3zmG9m.jpg"').fadeOut(400);
         });
 </script>
 <p>
